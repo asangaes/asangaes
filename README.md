@@ -39,7 +39,7 @@ To put it simply, I'm Edi, a full-stack developer, instructional designer, and e
 [![What is flipped classroom?](https://ytcards.demolab.com/?id=9A8sQZDRn5o&title=What+is+flipped+classroom?&lang=en&timestamp=1663770604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=655 "What is flipped classroom?")](https://youtu.be/PW_3v6XMeXU)
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@idea-canada?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/channel/UCHVwyWpnHaqGX3Qt0O3jV7A?sub_confirmation=1)
 
 #
 
