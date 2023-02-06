@@ -1,9 +1,12 @@
-### Hi there 👋
+### Asanga Edirisinghe # EDI
 
 <!--
 **asangaes/asangaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Let me introduce myself: my name is Edi, and I'm a full-stack developer and instructional designer working on online solutions to meet the demands of many stakeholders. I do analysis, design, coding, and implementation in my area. Most of the projects are created from scratch throughout the lifecycle of a project, beginning with conceptualization and ending with the solution of real-world problems through the application of code. Any video starts with an idea, moves through careful planning, and ends with a flourish of artistic genius.
+
+---
+### Languages and Tools
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
