@@ -2,7 +2,7 @@
 
 **`Full-Stake Developer, Instructional Designer and System Analyst`**
 
-To put it simply, I'm Edi, a full-stack developer, instructional designer, and experienced system analyst working on online solutions to meet the demands of many stakeholders. Projects are built from the ground up, beginning with analysis, design, and coding to solve real-world problems. All video content follows the same process, starting with concept development and ending with creative polish. Here are some recent my published instructional video content on my YouTube channel "[idea-canada][youtube]".
+To put it simply, I'm Edi, a full-stack developer, instructional designer, postsecondary instructor and experienced system analyst working on online solutions to meet the demands of many stakeholders. Projects are built from the ground up, beginning with analysis, design, and coding to solve real-world problems. All video content follows the same process, starting with concept development and ending with creative polish. Here are some recent my published instructional video content on my YouTube channel "[idea-canada][youtube]".
 
 ---
 
