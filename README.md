@@ -31,7 +31,7 @@ To put it simply, I'm Edi, a full-stack developer, instructional designer, and e
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Canada Study Visa Guide](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=Canada+Study+Visa+Guide&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Canada Study Visa Guide")](https://youtu.be/PPVOlgz-tc0)
+[![Canada Study Visa Guide](https://ytcards.demolab.com/?id=UCHVwyWpnHaqGX3Qt0O3jV7A&title=Canada+Study+Visa+Guide&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "Canada Study Visa Guide")](https://youtu.be/PPVOlgz-tc0)
 [![Logic Gates - Cambridge IGCSE - Grade 10](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=Logic+Gates+Cambridge+IGCSE&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "Logic Gates - Cambridge IGCSE - Grade 10")](https://youtu.be/V6-B72QFMFM)
 [![NCERT Web Portal Guide](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=NCERT+Web+Portal+Guide&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "NCERT Web Portal Guide")](https://youtu.be/tcyd9VlRxIU)
 [![Capstone Presentation - 2022 SFU ETLD Programme](https://ytcards.demolab.com/?id=DIny00tOBdU&title=Capstone+Presentation,+2022+SFU+ETLD+Programme&lang=en&timestamp=1667250900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=434 "Command Line Tools ALL Developers Should Know")](https://youtu.be/tjLPx9HXn4s)
