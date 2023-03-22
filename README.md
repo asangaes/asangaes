@@ -1,8 +1,8 @@
 # 🏄‍♂️ Asanga Edirisinghe # EDI
 
-**`Full-Stake Developer, Instructional Designer and System Analyst`**
+**`Full-Stake Developer, Instructor, Instructional Designer and System Analyst`**
 
-To put it simply, I'm Edi, a full-stack developer, instructional designer, postsecondary instructor and experienced system analyst working on online solutions to meet the demands of many stakeholders. Projects are built from the ground up, beginning with analysis, design, and coding to solve real-world problems. All video content follows the same process, starting with concept development and ending with creative polish. Here are some recent my published instructional video content on my YouTube channel "[idea-canada][youtube]".
+To put it simply, I'm Edi, and qualified professional in the information technology and educational sectors. I am an experienced learning designer with a demonstrated history of working in the higher education industry and over ten years of solid experience in educational technology and learning design. Also, I began my professional life working as a multimedia designer, full stack developer, system analyst, and head of the department in a post-secondary institution focused on cutting-edge technology just before moving to Canada. I firmly believe that professional knowledge originates from external sources and the inner reflection of one’s experience in a particular field.. Here are some recent my published instructional video content on my YouTube channel "[idea-canada][youtube]".
 
 ---
 
