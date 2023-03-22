@@ -37,7 +37,7 @@ To put it simply, I'm Edi, and qualified professional in the information technol
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 Latest YouTube Instructional Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Canada Study Visa Guide](https://ytcards.demolab.com/?id=PPVOlgz-tc0&title=Canada+Study+Visa+Guide&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=586 "Canada Study Visa Guide")](https://youtu.be/PPVOlgz-tc0)
