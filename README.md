@@ -102,13 +102,14 @@ Through my commitment to proactive career growth, I can stay ahead of the curve 
  #
 <details>
 <summary><h3>👨‍💻 Edi's Instructional Design Tools & Techniques</h3></summary>
-
-•	Various Learning Management Systems: BlackBoard, Moodle, Canvas
-•	Learning Material Repository System - SeedDMS
-•	Classroom Responsive System – iClicker, Kaltura, Poll Anywhere, Kahoot, Zoom.
-•	Multimedia authoring tools: Adobe Creative Suites (Adobe Illustrator, Photoshop, Aftereffects, Premier Pro, Captivate, Audition), Camtasia, Articulate Storyline 360, MindMeister, and Audacity.
-•	ADDIE, SAM, Backward Design, Cognitive Apprenticeship, Iterative Design methodologies
-•	E-Learning authoring tools: Articulate 360, Adobe Captivate, Camtasia and H5P
+<ul style="list-style-type:disc">
+<li><h4>Various Learning Management Systems:</h4> BlackBoard, Moodle, Canvas</li>
+<li><h4>Learning Material Repository System </h4>- SeedDMS</li>
+<li><h4>Classroom Responsive System </h4>– iClicker, Kaltura, Poll Anywhere, Kahoot, Zoom.</li>
+<li><h4>Multimedia authoring tools:</h4> Adobe Creative Suites (Adobe Illustrator, Photoshop, Aftereffects, Premier Pro, Captivate, Audition), Camtasia, Articulate Storyline 360, MindMeister, and Audacity.</li>
+<li><h4>Project management methodologies: </h4>ADDIE, SAM, Backward Design, Cognitive Apprenticeship, Iterative Design methodologies</li>
+<li><h4>E-Learning authoring tools:</h4> Articulate 360, Adobe Captivate, Camtasia and H5P</li>
+ </ul>
 
 
 
