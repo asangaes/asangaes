@@ -61,7 +61,7 @@ To put it simply, I'm Edi, and qualified professional in the information technol
 #
 
 <details>
- <summary><h3>👨‍💻 Edi's Instructional Design Skill Set</h3></summary>
+ <summary><h3>👨💻 Edi's Instructional Design Skill Set</h3></summary>
 <ul style="list-style-type:disc">
 <li><h4>Deep level of understanding of learning models</h4></li>
 <a>I possess a deep level of understanding of various learning models, which allows me to design instructional materials that are tailored to the specific needs and preferences of the audience. This includes a comprehensive understanding of cognitive, constructivist, behaviorist, and humanistic learning models, among others. By leveraging my knowledge of these models, I can create effective instructional strategies that promote engagement, retention, and successful outcomes.<a/>
