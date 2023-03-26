@@ -99,6 +99,7 @@ Through my commitment to proactive career growth, I can stay ahead of the curve 
   </ul>
  
  #
+<details>
 <summary><h3>👨‍💻 Edi's Instructional Design Skill Set</h3></summary>
 
 
