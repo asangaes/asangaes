@@ -65,34 +65,34 @@ To put it simply, I'm Edi, and qualified professional in the information technol
  <ul style="list-style-type:disc">
 <li><h4>Deep level of understanding of learning models</h4></li>
 I possess a deep level of understanding of various learning models, which allows me to design instructional materials that are tailored to the specific needs and preferences of the audience. This includes a comprehensive understanding of cognitive, constructivist, behaviorist, and humanistic learning models, among others. By leveraging my knowledge of these models, I can create effective instructional strategies that promote engagement, retention, and successful outcomes.
-<h4>Learning technology experience</h4>
+<li><h4>Learning technology experience</h4></li>
 I have extensive experience working with a wide range of learning technologies, including learning management systems (LMS), authoring tools, multimedia software, and virtual and augmented reality tools. This experience has enabled me to effectively design and implement instructional materials that leverage the latest technological advancements to enhance the learning experience. Additionally, I am proficient in using various digital platforms and tools for collaboration, communication, and project management, which facilitates effective teamwork and collaboration.
- <h4>Presentation technology knowledge</h4>
+ <li><h4>Presentation technology knowledge</h4></li>
 I possess extensive knowledge of presentation technologies and tools, including slide design software, audio and video editing software, and web conferencing platforms. This knowledge allows me to create engaging and effective presentations that incorporate multimedia elements such as images, audio, and video to enhance the learning experience. Additionally, I am adept at using these tools to facilitate remote or virtual learning, enabling me to reach a wider audience and provide flexible learning opportunities.
-<h4>Team collaboration</h4> 
+<li><h4>Team collaboration</h4> </li>
 My approach to content creation is grounded in practicality, as I strive to provide information that can be effectively applied in real-world scenarios, particularly learner-oriented ones. To achieve this, I work collaboratively with subject matter experts, professionals, and team members to ensure the accuracy and relevance of the information presented.
-<h4>Project Management skills</h4>
+<li><h4>Project Management skills</h4></li>
 As an instructional designer, I possess strong project management skills that enable me to effectively manage instructional design projects from start to finish. This includes developing project plans, timelines, and budgets, as well as coordinating the activities of project team members and stakeholders.
 I am also experienced in using project management tools and software to track progress, manage resources, and identify potential issues or risks. By employing effective project management strategies, I can ensure that instructional design projects are completed on time, within budget, and to the satisfaction of all stakeholders.
- <h4>Visual and artistic talents</h4>
+ <li><h4>Visual and artistic talents</h4></li>
 While my primary focus is on instructional design and learning technologies, I do possess visual and artistic talents that enable me to create visually appealing and engaging instructional materials. This includes skills in graphic design, illustration, and video production, which allow me to create custom visual elements that complement the instructional content and enhance the learning experience.
 Additionally, I am proficient in using a wide range of design software, such as Adobe Creative Suite, to create professional-grade visual content. By incorporating visually appealing elements into instructional materials, I can capture learners' attention and foster engagement, ultimately contributing to a more successful learning experience.
-<h4>Understanding of Virtual Reality</h4>
+<li><h4>Understanding of Virtual Reality</h4></li>
 I possess a comprehensive understanding of virtual reality (VR) technologies and their potential applications in instructional design. VR is a powerful tool that allows learners to interact with realistic, simulated environments and scenarios, creating an immersive and engaging learning experience.
 As an instructional designer, I can design and develop instructional materials that leverage VR technologies to enhance learning outcomes. This may include designing VR simulations or scenarios that allow learners to apply their knowledge and skills in realistic situations or using VR to facilitate virtual collaboration and teamwork.
-<h4>Passion for Knowledge</h4>
+<li><h4>Passion for Knowledge</h4></li>
 I possess a strong passion for knowledge and learning, which drives my work as an instructional designer. I believe that learning is a lifelong journey, and I am constantly seeking out new information, insights, and perspectives to expand my own knowledge and improve my instructional design practice.
 My passion for knowledge also fuels my commitment to staying up to date on the latest trends and technologies in instructional design and learning, which allows me to design and develop effective instructional materials that meet the needs of modern learners.
 Additionally, I am passionate about creating instructional materials that inspire and engage learners, fostering a love of learning that extends beyond the specific subject matter. Through my passion for knowledge, I can promote a positive learning culture and contribute to learners' personal and professional growth.
- <h4>Assessment Development</h4>
+ <li><h4>Assessment Development</h4></li>
 As an instructional designer, I have experience developing effective assessment tools that measure learners' progress and knowledge acquisition. This includes designing formative and summative assessments that align with the learning objectives and provide learners with opportunities to demonstrate their mastery of the content.
 I am skilled in developing a range of assessment types, including quizzes, exams, case studies, simulations, and performance assessments. I am also experienced in using learning analytics tools to analyze learners' performance data and identify areas for improvement.
 Through my assessment development skills, I can create fair and accurate assessments that provide valuable feedback to learners and inform instructional design decisions, ultimately contributing to improved learning outcomes.
-<h4>Above average communication</h4>
+<li><h4>Above average communication</h4></li>
 I possess above-average communication skills that enable me to effectively convey instructional content to learners, team members, and stakeholders. I am skilled in both written and verbal communication and can adapt my communication style to the needs of different audiences.
 In addition, I am a good listener, which allows me to understand learners' needs, concerns, and feedback, and adjust my instructional materials accordingly. I am also adept at providing constructive feedback and facilitating productive discussions to resolve issues and improve learning outcomes.
 Through my strong communication skills, I can foster positive relationships with learners, team members, and stakeholders, ultimately contributing to a successful instructional design project.
-<h4>Proactive career growth</h4>
+<li><h4>Proactive career growth</h4></li>
 I am committed to proactive career growth, which involves seeking out opportunities to develop my skills, expand my knowledge, and advance my career. This includes pursuing professional development opportunities such as attending conferences, workshops, and webinars, and participating in professional organizations and networking events.
 I also take a proactive approach to seeking out new challenges and responsibilities in my work, taking on new projects and initiatives that allow me to expand my skill set and contribute to the success of my organization.
 Through my commitment to proactive career growth, I can stay ahead of the curve in instructional design and learning, positioning myself as an asset to my organization and the broader instructional design community.
