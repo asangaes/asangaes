@@ -66,6 +66,14 @@ To put it simply, I'm Edi, and qualified professional in the information technol
 I possess a deep level of understanding of various learning models, which allows me to design instructional materials that are tailored to the specific needs and preferences of the audience. This includes a comprehensive understanding of cognitive, constructivist, behaviorist, and humanistic learning models, among others. By leveraging my knowledge of these models, I can create effective instructional strategies that promote engagement, retention, and successful outcomes.
 <h4>Learning technology experience</h4>
 I have extensive experience working with a wide range of learning technologies, including learning management systems (LMS), authoring tools, multimedia software, and virtual and augmented reality tools. This experience has enabled me to effectively design and implement instructional materials that leverage the latest technological advancements to enhance the learning experience. Additionally, I am proficient in using various digital platforms and tools for collaboration, communication, and project management, which facilitates effective teamwork and collaboration.
+ <h4>Presentation technology knowledge</h4>
+I possess extensive knowledge of presentation technologies and tools, including slide design software, audio and video editing software, and web conferencing platforms. This knowledge allows me to create engaging and effective presentations that incorporate multimedia elements such as images, audio, and video to enhance the learning experience. Additionally, I am adept at using these tools to facilitate remote or virtual learning, enabling me to reach a wider audience and provide flexible learning opportunities.
+<h4>Team collaboration</h4> 
+My approach to content creation is grounded in practicality, as I strive to provide information that can be effectively applied in real-world scenarios, particularly learner-oriented ones. To achieve this, I work collaboratively with subject matter experts, professionals, and team members to ensure the accuracy and relevance of the information presented.
+<h4>Project Management skills</h4>
+As an instructional designer, I possess strong project management skills that enable me to effectively manage instructional design projects from start to finish. This includes developing project plans, timelines, and budgets, as well as coordinating the activities of project team members and stakeholders.
+I am also experienced in using project management tools and software to track progress, manage resources, and identify potential issues or risks. By employing effective project management strategies, I can ensure that instructional design projects are completed on time, within budget, and to the satisfaction of all stakeholders.
+
 
 
 [website]: https://www.idea-canada.com
