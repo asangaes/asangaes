@@ -97,6 +97,7 @@ I am committed to proactive career growth, which involves seeking out opportunit
 I also take a proactive approach to seeking out new challenges and responsibilities in my work, taking on new projects and initiatives that allow me to expand my skill set and contribute to the success of my organization.
 Through my commitment to proactive career growth, I can stay ahead of the curve in instructional design and learning, positioning myself as an asset to my organization and the broader instructional design community.
   </ul>
+ </details>
  
  #
 <details>
