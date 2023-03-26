@@ -62,7 +62,8 @@ To put it simply, I'm Edi, and qualified professional in the information technol
 
 <details>
  <summary><h3>👨‍💻 Edi's Instructional Design Skill Set</h3></summary>
-<h4>Deep level of understanding of learning models</h4>
+ <ul style="list-style-type:disc">
+<li><h4>Deep level of understanding of learning models</h4></li>
 I possess a deep level of understanding of various learning models, which allows me to design instructional materials that are tailored to the specific needs and preferences of the audience. This includes a comprehensive understanding of cognitive, constructivist, behaviorist, and humanistic learning models, among others. By leveraging my knowledge of these models, I can create effective instructional strategies that promote engagement, retention, and successful outcomes.
 <h4>Learning technology experience</h4>
 I have extensive experience working with a wide range of learning technologies, including learning management systems (LMS), authoring tools, multimedia software, and virtual and augmented reality tools. This experience has enabled me to effectively design and implement instructional materials that leverage the latest technological advancements to enhance the learning experience. Additionally, I am proficient in using various digital platforms and tools for collaboration, communication, and project management, which facilitates effective teamwork and collaboration.
@@ -95,6 +96,7 @@ Through my strong communication skills, I can foster positive relationships with
 I am committed to proactive career growth, which involves seeking out opportunities to develop my skills, expand my knowledge, and advance my career. This includes pursuing professional development opportunities such as attending conferences, workshops, and webinars, and participating in professional organizations and networking events.
 I also take a proactive approach to seeking out new challenges and responsibilities in my work, taking on new projects and initiatives that allow me to expand my skill set and contribute to the success of my organization.
 Through my commitment to proactive career growth, I can stay ahead of the curve in instructional design and learning, positioning myself as an asset to my organization and the broader instructional design community.
+  </ul>
 
 
 
