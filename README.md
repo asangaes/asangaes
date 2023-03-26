@@ -83,6 +83,19 @@ As an instructional designer, I can design and develop instructional materials t
 I possess a strong passion for knowledge and learning, which drives my work as an instructional designer. I believe that learning is a lifelong journey, and I am constantly seeking out new information, insights, and perspectives to expand my own knowledge and improve my instructional design practice.
 My passion for knowledge also fuels my commitment to staying up to date on the latest trends and technologies in instructional design and learning, which allows me to design and develop effective instructional materials that meet the needs of modern learners.
 Additionally, I am passionate about creating instructional materials that inspire and engage learners, fostering a love of learning that extends beyond the specific subject matter. Through my passion for knowledge, I can promote a positive learning culture and contribute to learners' personal and professional growth.
+ <h4>Assessment Development</h4>
+As an instructional designer, I have experience developing effective assessment tools that measure learners' progress and knowledge acquisition. This includes designing formative and summative assessments that align with the learning objectives and provide learners with opportunities to demonstrate their mastery of the content.
+I am skilled in developing a range of assessment types, including quizzes, exams, case studies, simulations, and performance assessments. I am also experienced in using learning analytics tools to analyze learners' performance data and identify areas for improvement.
+Through my assessment development skills, I can create fair and accurate assessments that provide valuable feedback to learners and inform instructional design decisions, ultimately contributing to improved learning outcomes.
+<h4>Above average communication</h4>
+I possess above-average communication skills that enable me to effectively convey instructional content to learners, team members, and stakeholders. I am skilled in both written and verbal communication and can adapt my communication style to the needs of different audiences.
+In addition, I am a good listener, which allows me to understand learners' needs, concerns, and feedback, and adjust my instructional materials accordingly. I am also adept at providing constructive feedback and facilitating productive discussions to resolve issues and improve learning outcomes.
+Through my strong communication skills, I can foster positive relationships with learners, team members, and stakeholders, ultimately contributing to a successful instructional design project.
+<h4>Proactive career growth</h4>
+I am committed to proactive career growth, which involves seeking out opportunities to develop my skills, expand my knowledge, and advance my career. This includes pursuing professional development opportunities such as attending conferences, workshops, and webinars, and participating in professional organizations and networking events.
+I also take a proactive approach to seeking out new challenges and responsibilities in my work, taking on new projects and initiatives that allow me to expand my skill set and contribute to the success of my organization.
+Through my commitment to proactive career growth, I can stay ahead of the curve in instructional design and learning, positioning myself as an asset to my organization and the broader instructional design community.
+
 
 
 
