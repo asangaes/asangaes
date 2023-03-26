@@ -101,7 +101,7 @@ Through my commitment to proactive career growth, I can stay ahead of the curve 
  
  #
 <details>
-<summary><h3>👨‍💻 Edi's Instructional Design Tools & Techniques</h3></summary>
+<summary><h3>:briefcase: Edi's Instructional Design Tools & Techniques</h3></summary>
 <ul style="list-style-type:disc">
 <li><h4>Various Learning Management Systems:</h4> BlackBoard, Moodle, Canvas</li>
 <li><h4>Learning Material Repository System </h4>- SeedDMS</li>
