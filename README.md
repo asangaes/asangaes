@@ -4,7 +4,7 @@
 
 <p>To put it simply, I'm Edi, and I have the superpower to turn complex topics into easy-to-follow instructions. My secret? A mix of creativity, empathy, and instructional expertise!</p>
 I'm qualified professional in the information technology and educational sectors. I am an experienced learning designer with a demonstrated history of working in the higher education industry and over ten years of solid experience in educational technology and learning design. Also, I began my professional life working as a multimedia designer, full stack developer, system analyst, and head of the department in a post-secondary institution focused on cutting-edge technology just before moving to Canada. I firmly believe that professional knowledge originates from external sources and the inner reflection of one’s experience in a particular field.. Here are some recent my published instructional video content on my<a href="https://www.youtube.com/@idea-canada/videos">
-<img alt="youtbe views" title="YouTube Subscribers" alt=youtube subscribers" src="https://img.shields.io/youtube/channel/views/UCHVwyWpnHaqGX3Qt0O3jV7A?style=social"/>
+<img alt="youtbe views" title="YouTube Subscribers" alt=youtube subscribers" src="https://img.shields.io/youtube/channel/UCHVwyWpnHaqGX3Qt0O3jV7A?style=social"/>
 </a>
 
 ---
