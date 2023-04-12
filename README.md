@@ -1,6 +1,6 @@
 # 🏄‍♂️ Asanga Edirisinghe # EDI
 
-**`Full-Stake Developer, Instructor, System Analyst and Instructional Designer`**
+**`Full-Stake Developer, Instructor, Business Systems Analyst and Instructional Designer`**
 
 <p>I'm Edi, and one of my superpowers is simplifying complex concepts into easy-to-follow instructions. My secret? A mix of creativity, empathy, and instructional expertise!</p>
 <p>I'm qualified professional in the information technology and educational sectors. An experienced learning designer with a demonstrated history of working in the TVET industry and over ten years of solid experience in educational technology and learning design. Also, I began my professional life working as a multimedia designer, full stack developer, system analyst, and head of the department in a technological institution focused on cutting-edge technology just before moving to Canada. I firmly believe that professional knowledge originates from external sources and the inner reflection of one’s experience in a particular field.</p> <p>Here are some recent my published instructional video content for the SFU</p>
